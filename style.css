@@ -31,7 +31,7 @@ img {
 }
 
 .item-1 {
-  background-image: url(../bg.png);
+  background-image: url(../SHABLON-BOX/bg.png);
   /* background-image: url(https://github.com/olegaim/textflexbox/blob/main/bg.png); */
   display: flex;
   flex-direction: column;
