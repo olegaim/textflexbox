@@ -31,8 +31,8 @@ img {
 }
 
 .item-1 {
-  background-image: url(../SHABLON-BOX/bg.png);
-  /* background-image: url(https://github.com/olegaim/textflexbox/blob/main/bg.png); */
+  /* background-image: url(../SHABLON-BOX/bg.png); */
+  background-image: url(https://user-images.githubusercontent.com/118912031/205511472-e573564f-fad1-4493-94c1-1319d29372cd.png);
   display: flex;
   flex-direction: column;
   box-shadow: inset 0 0 0 100vw rgba(198, 108, 73, 0.3);
